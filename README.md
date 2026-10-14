@@ -8,3 +8,6 @@ Git is not the best platform for hosting videos, so this repository contains onl
 
 (I will try to find a way to store them online.
 Ping me if you need me to re-upload them from my hard drive backup.)
+
+More information on what type of Wood Fire was record:   
+https://www.stree.be/jose/accueil/techniques_de_cuisson/four-a-bois/   
