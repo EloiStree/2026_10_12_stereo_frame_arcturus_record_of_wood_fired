@@ -18,3 +18,5 @@ More information on what type of Wood Fire was record:
 https://www.stree.be/jose/accueil/techniques_de_cuisson/four-a-bois/   
 
 
+Produced by a QooCam Ego Kando Black:    
+<img width="466" height="386" alt="image" src="https://github.com/user-attachments/assets/d7e86fae-79f7-44bb-9901-db625ce3e243" />  
