@@ -20,3 +20,8 @@ https://www.stree.be/jose/accueil/techniques_de_cuisson/four-a-bois/
 
 Produced by a QooCam Ego Kando Black:    
 <img width="466" height="386" alt="image" src="https://github.com/user-attachments/assets/d7e86fae-79f7-44bb-9901-db625ce3e243" />  
+
+
+Example of image (screenshot):   
+<img width="1907" height="709" alt="image" src="https://github.com/user-attachments/assets/2604e96b-a974-4c6b-80c1-05d93e355937" />   
+<img width="1907" height="709" alt="image" src="https://github.com/user-attachments/assets/cd2c745a-df67-4b8d-8681-7f079f0d97e5" />   
